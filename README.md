@@ -26,12 +26,7 @@ An updated version of the database can be accessed at https://www.iccat.int/en/a
 
 **TABULAR SUMMARY OF DATASETS LISTED IN THIS COLLECTION:**
 
-Filenames: 
-*Pelagic_Fisheries_Catch_Time_Series_SAO.csv*
-
-*Environmental_Oceanographic_Fisheries_Time_Series_SAO.csv*
-
-*Thermal_Species_Affinities_SAO.csv*
+Filenames:   
 
 ## R Code
 
